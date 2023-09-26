@@ -1,0 +1,23 @@
+.red {
+    background-color: red;
+    height: 50px;
+    border: 2px solid black;   
+}
+.blue {
+    background-color: blue;
+    height: 50px;
+    border: 2px solid black;   
+}
+
+
+.yellow {
+    background-color: yellow;
+    height: 50px;
+    border: 2px solid black;
+}
+
+.purple {
+    background-color: purple;
+    height: 50px;
+    border: 2px solid black;
+}
